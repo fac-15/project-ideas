@@ -7,6 +7,10 @@ Every member of FAC15 is encouraged to contribute an issue, although you are not
 
 Please contribute by opening an issue and filling in the template:
 
+### Template:
+
+<hr />
+
 #### Name
 Your name
 
@@ -19,7 +23,11 @@ Who would this benefit? Who would be affected by it?
 #### What is currently being done to solve this problem?
 Whether it's effective or not, what is in place at the moment to solve this problem?
 
+<hr />
+
 ### Example Issue:
+
+<hr />
 
 #### Name
 Michael
@@ -33,3 +41,5 @@ My grandparents. People with dementia. The elderly. Families of people with deme
 #### What is currently being done to solve this problem?
 They have family who help them, but family members don't always communicate well together about what they're doing to help.
 Care homes can provide for people with dementia, but this can mean that they see less of their family and forget about them.
+
+<hr />
