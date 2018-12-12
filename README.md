@@ -5,7 +5,9 @@ A repository of project ideas for the first round of FAC15 projects
 
 Every member of FAC15 is encouraged to contribute an issue, although you are not required to.
 
-Please contribute by opening an issue and filling in the template:
+Please contribute by opening an issue and filling in the template.
+
+We're looking for **problems, not solutions**, so even if you do have an idea in mind about how to solve this, you should explore how to solve this issue **as a team** once projects have been selected.
 
 ### Template:
 
