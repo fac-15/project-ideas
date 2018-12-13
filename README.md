@@ -9,6 +9,8 @@ Please contribute by opening an issue and filling in the template.
 
 We're looking for **problems, not solutions**, so even if you do have an idea in mind about how to solve this, you should explore how to solve this issue **as a team** once projects have been selected.
 
+You can contribute more than one issue if you like.
+
 ### Template:
 
 <hr />
